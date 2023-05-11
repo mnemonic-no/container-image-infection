@@ -5,7 +5,7 @@ Collection of Dockerfile templates to be used in penetration tests and other red
 
 # Metadata
 
-| Repository type | State |
+| Project type | State |
 |---|---|
 | Proof of Concept (PoC) | Unmaintained  |
 
