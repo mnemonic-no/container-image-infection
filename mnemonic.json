@@ -1,0 +1,9 @@
+{
+    "projectName": "Infecting container images to spread in large-scale container-based infrastructures",
+    "projectPage": "",
+    "projectType": "poc", 
+    "projectState": "unmaintained",
+    "repositoryOwner": "emilien",
+    "language": "GO"
+}
+
