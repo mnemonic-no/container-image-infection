@@ -12,6 +12,8 @@ Collection of Dockerfile templates to be used in penetration tests and other red
 
 # Background
 
+Original blog post: https://www.mnemonic.io/resources/blog/container-security-infecting-images-to-establish-backdoors/
+
 During offensive engagements, it is not rare to compromise container registries, used as part of a deployment strategy. Since many companies tend to trust images hosted on private registries, seamlessly infecting them with backdoors connecting to an attacker-controlled location can be an efficient way to spread in a large-scale infrastructure such as Kubernetes.
 
 The key to a stealthy infection is to be as silent as possible from a deployment and runtime perspective, by keeping the original behavior of the images unchanged after the infection. 
